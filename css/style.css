@@ -1,0 +1,39 @@
+#home{
+    background-image: url(/images/backgrounds/h_img.jpg);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    background-size: cover;
+}
+.welcome{
+    font-size: 40px;
+}
+#about{
+    text-align: center;
+}
+#services{
+    background-image: url(/images/backgrounds/s_image.jpg);
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+.row{
+    color: darkgray;
+}
+
+.container-whatwedo {
+    text-align: center;
+}
+#portfolio{
+    text-align: center;
+}
+#contacts{
+    background-image: url("images/backgrounds/c_image.jpg");
+    color: darkgray;
+    height: 500px;
+    text-align: center;
+    font-size: 20px; 
+}
+form{
+    color: black;
+}
