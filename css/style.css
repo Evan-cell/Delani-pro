@@ -29,11 +29,29 @@
 }
 #contacts{
     background-image: url("images/backgrounds/c_image.jpg");
-    color: darkgray;
-    height: 500px;
-    text-align: center;
-    font-size: 20px; 
-}
-form{
-    color: black;
-}
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom:
+  }
+  footer{
+  display: inline-block;
+  }
+  .inpo{
+  width: 35%;
+  }
+  input{
+  background: inherit;
+  width: 25%;
+  }
+  input{
+    color:white;
+  }
+  textarea {
+  background: inherit;
+  width: 50%;
+  color:white;
+  }
+  button{
+    width: 20%;
+  }
