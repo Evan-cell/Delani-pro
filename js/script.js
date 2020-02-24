@@ -1,7 +1,6 @@
 $(document).ready(function () {
     $(".design icon").click(function () {
-      $(".design icon").show();
-      $(".design icon").hide("slow")
+      $(".design icon")();
     });
     $(".design icon").click(function () {
       $(".design icon").show();
@@ -105,3 +104,13 @@ $(document).ready(function () {
     }
    
   }
+
+  $(document).ready(function(){
+      $("#j1").mouseover(function(){
+          $("#k1").show(function()
+          
+      
+        $("#j1").mouseover(function(){
+            $("#k1").hide(function()
+            
+    });
